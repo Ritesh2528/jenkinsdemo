@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello Jenkins from GitHub - v2"
+echo "Hello Jenkins from GitHub - v3"
